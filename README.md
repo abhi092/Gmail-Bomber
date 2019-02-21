@@ -1,6 +1,7 @@
 # Gmail-Bomber
 Send multiple message to specific email id multiple times
 
-Reqirements:
+Requirements:
+
 Selenium 
 Webdriver 
